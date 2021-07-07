@@ -1,2 +1,4 @@
 # python-helloworld
-Basic Python Flask application
+Basic Python Flask application.
+
+(Tests using GitHub Actions)
